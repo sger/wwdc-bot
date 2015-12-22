@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"golang.org/x/net/websocket"
+	"github.com/sger/wwdc-bot/Godeps/_workspace/src/golang.org/x/net/websocket"
 	"io/ioutil"
 	"log"
 	"net/http"
