@@ -1,1 +1,1 @@
-worker: ./wwdc-bot $SLACK_BOT_TOKEN
+worker: ./wwdc-bot xoxb-17120312340-JfuFWop4lyHcwmqDedFmPY7O
