@@ -12,7 +12,7 @@
    "env": {
      "SLACK_BOT_TOKEN": {
        "description": "Slack auth token. See https://api.slack.com/tokens",
-       "value": "xoxb-17120312340-JfuFWop4lyHcwmqDedFmPY7O"
+       "value": "CHANGEME"
      }
    }
 }
