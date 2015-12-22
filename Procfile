@@ -1,1 +1,1 @@
-worker: wwdc-bot $SLACK_BOT_TOKEN
+worker: wwdc-bot SLACK_BOT_TOKEN
