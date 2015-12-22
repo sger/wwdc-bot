@@ -1,1 +1,1 @@
-worker: wwdc-bot xoxb-17216462545-vGSv5C32mvZAt35nAAlscBxN
+worker: wwdc-bot $SLACK_BOT_TOKEN
