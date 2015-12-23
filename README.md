@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sger/wwdc-bot.svg?branch=master)](https://travis-ci.org/sger/wwdc-bot)
+
 # WWDC Slack Bot
 
 Searchable full-text transcripts of WWDC sessions
