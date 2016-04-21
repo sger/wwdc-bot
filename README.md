@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/sger/wwdc-bot.svg?branch=master)](https://travis-ci.org/sger/wwdc-bot)
+[![Coverage Status](https://coveralls.io/repos/github/sger/wwdc-bot/badge.svg?branch=master)](https://coveralls.io/github/sger/wwdc-bot?branch=master)
 
 # WWDC Slack Bot
 
